@@ -1,0 +1,31 @@
+.top-brands {
+  padding: 30px;
+}
+.top-brand-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.top-brands-cover {
+  height: 208px;
+  border-radius: 50%;
+  width: 208px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--primary-bg);
+  box-shadow: var(--collection-shadow);
+}
+.top-brand-image {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 86%;
+  width: 86%;
+}
+.topbrand-title {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

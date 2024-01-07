@@ -1,0 +1,37 @@
+#root {
+  --primary-box-shadow: rgba(28, 28, 28, 0.08) 0px 2px 8px;
+  --border-white: rgb(232, 232, 232);
+  --primary-bg: rgb(255, 255, 255);
+  --zomato-gray: #828282;
+  --zomato-red: #ff7e83;
+  --inactive-text: #696969;
+  --inactive-color: #f8f8f8;
+  --filter-text: #9c9c9c;
+  --heading-text: #1c1c1c;
+  --collection-shadow: rgb(0 0 0 /8%) 0px 3px 12px;
+  --tag-red: #d22662;
+  --tag-blue: #256fef;
+  --tag-green: #267e3e;
+  --subtitle-text: #363636;
+  --bg-gradient: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0.1) 0%,
+    rgba(66, 66, 68, 0.2) 14%,
+    rgba(97, 100, 101, 0.5) 100%
+  );
+  --bg-more-gradient: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 0.1) 0%,
+    rgba(66, 66, 68, 0.5) 14%,
+    rgba(97, 100, 101, 0.5) 100%
+  );
+  --gold-color: rgb(255, 211, 133);
+  --gold-gradient: linear-gradient(
+    90deg,
+    rgb(12, 14, 17) 0%,
+    rgb(12, 14, 17) 25%,
+    rgb(12, 14, 17) 50%,
+    rgba(12, 14, 17, 0.8) 80%,
+    rgba(12, 14, 17, 0) 100%
+  );
+}

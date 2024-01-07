@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Open+Sans:ital,wght@0,400;1,700&display=swap");
+@import "././components/styles/CommonClass.css";
+@import "././components/styles/Variable.css";
+
+body {
+  margin: 0;
+
+  font-family: "Hedvig Letters Serif", serif;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
